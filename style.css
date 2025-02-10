@@ -52,3 +52,7 @@ body {
 #clear {
     clear: both;
 }
+
+audio {
+    display : none;
+}
