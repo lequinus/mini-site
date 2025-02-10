@@ -1,0 +1,54 @@
+#zero {
+    margin: auto;
+    height: 100px;
+}
+
+#firstContainer {
+    text-align: center;
+}
+
+body {
+    background-color: pink;
+    width: 600px;
+    margin: auto;
+}
+
+#secondContainer{ 
+    font-family: cursive;
+    text-align: center;
+}
+#thirdContainer {
+    width: 250px;
+      height: 100px;
+      background-color: lightblue;
+      cursor: pointer;
+      text-align: center;
+      float: left;
+}
+
+#fourthContainer {
+    width: 250px;
+      height: 100px;
+      background-color:crimson;
+      cursor: pointer;
+      text-align: center;
+      float: right;
+}
+
+#link {
+    font-family: cursive;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+
+#link2 {
+    font-family: 'g Gemba', sans-serif;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+
+#clear {
+    clear: both;
+}
